@@ -15,13 +15,8 @@ tf\maps\soundcache\*.cache
 tf\media
 tf\reslists
 tf\resource\*.dat
-tf\resource\*.res
-tf\resource\*.ttf
-tf\resource\gameui_
-tf\resource\roundinfo
 tf\resource\tf_dutch.txt
 tf\resource\tf_german.txt
 tf\resource\tf_french.txt
 tf\resource\tf_schinese.txt
 tf\resource\tf_spanish.txt
-tf\resource\ui
