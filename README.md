@@ -3,7 +3,6 @@ Update history of tf/reslists contents from September '07 build until the May 13
 
 # Statistics
 * In total, for chunk 441 (team fortress 2 content) there are 396 manifests (patches) to go through.
-  * I've stopped at 197 (Australian Christmas) for today, will continue from there tomorrow.
 
 # Interesting Recent Finds
 * [All the commits in general](https://github.com/404UNFca/TF2Reslists/commits/master).
