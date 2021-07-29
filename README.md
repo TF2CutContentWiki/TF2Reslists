@@ -8,8 +8,13 @@ Update history of tf/reslists contents from September '07 build until the May 13
 # Interesting Recent Finds
 * [All the commits in general](https://github.com/404UNFca/TF2Reslists/commits/master).
   * I've left a comment on each commit explaining when I think each manifest (patch) is from.
-* Most recently, the [Australian Christmas Update diff](https://github.com/404UNFca/TF2Reslists/commit/148e3428845c22c1eca4b03deac54b6c5b14523a)
+* Most recently, the [Australian Christmas Update diff](https://github.com/404UNFca/TF2Reslists/commit/148e3428845c22c1eca4b03deac54b6c5b14523a) (manifest 197)
   * Load the diffs for reslists/cp_degrootkeep.lst, and reslists/cp_degrootkeep.snd. You can CTRL+F for my username to find comments I've left throughout both files in the diff explaining what is of interest.
+  * Mainly, the Knight's files, Mecha Level 4 Sentry's files, Minion-related files, Custom Targe files, Simple Helm files and Big Mean Mother Hubbard files were first "leaked" in this update.
+* Manifests [201](https://github.com/404UNFca/TF2Reslists/commit/0ca13f4385a36e0687b64e4557e262ac24aef352) and [203](https://github.com/404UNFca/TF2Reslists/commit/4ecfcb9f79aaec3ea1bf5f16c2046b192c68b35b), which are patches from shortly after the above Australian Christmas update added in new sound filenames for the Mecha Level 4 Sentry, and some sound definition names for the Minion, into cp_degrootkeep.lst and cp_degrootkeep.snd
+* Manifest [208](https://github.com/404UNFca/TF2Reslists/commit/3171314c4c625774ba086c1936abfbc20c98db62), from a few patches later, updated the existing cp_granary.lst to add in filenames of other stuff.
+  * Other stuff includes the other reslist leak stuff I was hunting for; the Krankensage filenames and the Celtic Crown filenames. The update to the Granary LST also contains all the stuff first discovered in the Australian Christmas update listed above.
+  * The diff for Manifest 208 is too large to view without a local git client however, so I left a comment on it with previews of the Krankensage and Celtic Crown filenames for easier viewing.
 
 # FAQ
 Q: Where do you get these old files?
