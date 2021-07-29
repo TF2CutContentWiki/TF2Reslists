@@ -2423,6 +2423,8 @@
 "Minion.Explode"
 "Minion.ChargeUpStun"
 "Minion.Building"
+"Minion.Recognize"
+"Minion.Notice"
 "Taunt.Sniper02HealClick"
 "Taunt.Sniper02FootStomp"
 "Selection.SniperHatTip"
