@@ -16,6 +16,8 @@ Update history of tf/reslists contents from September '07 build until the May 13
   * Other stuff includes the other reslist leak stuff I was hunting for; the Krankensage filenames and the Celtic Crown filenames. The update to the Granary LST also contains all the stuff first discovered in the Australian Christmas update listed above.
   * The diff for Manifest 208 is too large to view without a local git client however, so I left a comment on it with previews of the Krankensage and Celtic Crown filenames for easier viewing.
 
+tl;dr, this repo has helped confirm that 2010 is the year that all the reslist leak stuff listed on the TF2 Wiki's [Unused Content Nav template](https://wiki.teamfortress.com/wiki/Template:Unused_Content_Nav) were first added to the .lst files. I'm not yet sure which specific patch dates correspond to manifests 201, 203 and 208 however.
+
 # FAQ
 Q: Where do you get these old files?
 
