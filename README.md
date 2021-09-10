@@ -1,3 +1,15 @@
+# September 10th, 2021
+I'll be making a new version of this repo with the following things:
+* Contents of the following directories from Team Fortress 2, from the leaked Postal 3 June 25th 2007 build up to the patch in 2013 when Steampipe was introduced:
+  * tf\scripts
+  * tf\resource
+  * tf\reslists
+* Contents of the following directories from the 2010-2013 Team Fortress 2 open beta:
+  * tf_beta\scripts
+  * tf_beta\resource
+  * tf_beta\reslists
+
+
 # TF2Reslists
 Update history of tf/reslists contents from September '07 build until the May 13, 2013 patch when the directory and its contents were finally removed from the game.
 
